@@ -1,1 +1,2 @@
-# merchant
+# merchant list
+required for configuration
